@@ -4,7 +4,7 @@
 * Surprisingly hard thing to pin down. 
 * Is there a succinct, concise definition of software architecture?
 * This a mind map that starts touching on all the aspects of software architecture. 
-![](images/Screen Shot 2022-03-13 at 10.00.20 AM.png)
+![](images/01-01-mind-map.png)
 * The architect role keeps expanding, 
 * Over the last 5 or 10 years, the role of software architect has actually expanded beyond what it traditionally was a few decades ago. 
 
